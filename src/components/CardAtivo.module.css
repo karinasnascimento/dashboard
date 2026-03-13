@@ -1,0 +1,14 @@
+.card {
+  background-color: var(--fundo-card);
+  border-radius: 8px;
+  padding: 16px;
+  box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+  border: 1px solid var(--borda);
+  min-width: 200px;
+}
+
+.titulo {
+  margin-top: 0;
+  border-bottom: 1px solid #ccc;
+  padding-bottom: 8px;
+}
